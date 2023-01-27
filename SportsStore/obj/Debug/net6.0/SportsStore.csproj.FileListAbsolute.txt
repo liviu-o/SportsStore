@@ -56,3 +56,5 @@ C:\Users\Liviu\Desktop\Asp.NetCoreProjects\SportsSln\SportsStore\bin\Debug\net6.
 C:\Users\Liviu\Desktop\Asp.NetCoreProjects\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Liviu\Desktop\Asp.NetCoreProjects\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CopyComplete
 C:\Users\Liviu\Desktop\Asp.NetCoreProjects\SportsSln\SportsStore\bin\Debug\net6.0\ref\SportsStore.dll
+C:\Users\Liviu\Desktop\Asp.NetCoreProjects\SportsSln\SportsStore\bin\Debug\net6.0\libman.json
+C:\Users\Liviu\Desktop\Asp.NetCoreProjects\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.staticwebassets.runtime.json
